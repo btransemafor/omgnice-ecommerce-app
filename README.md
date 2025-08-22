@@ -62,6 +62,12 @@ OMGNice E-commerce App giúp kết nối người bán và người mua thông q
 
 ## 📱 Hướng Dẫn Cài Đặt Dự Án
 
+### Cấu hình Database 
+- database 
+- port 
+- host
+- password
+
 ### 🚀 Backend (Node.js)
 
 #### Cấu hình môi trường
@@ -83,7 +89,7 @@ OMGNice E-commerce App giúp kết nối người bán và người mua thông q
 
 4. **Chỉnh sửa file `.env`** với thông tin phù hợp:
    ```env
-   PORT=3000
+   PORT=8081
    DATABASE_URL=mongodb://localhost:27017/your_database
    JWT_SECRET=your_jwt_secret_key
    ```
@@ -93,7 +99,7 @@ OMGNice E-commerce App giúp kết nối người bán và người mua thông q
    node server.js
    ```
 
-6. **Kiểm tra server:** Mở trình duyệt và truy cập `http://localhost:5000`
+6. **Kiểm tra server:** Mở trình duyệt và truy cập `http://localhost:̀8081`
 
 ---
 
