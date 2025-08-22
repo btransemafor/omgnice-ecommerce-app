@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "792942328159",
+    "project_id": "omgnicetv-be2f0",
+    "storage_bucket": "omgnicetv-be2f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792942328159:android:d571b082ee9bcb3ef0deea",
+        "android_client_info": {
+          "package_name": "com.example.omgnice_app_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792942328159-dc169bdea2i2e4o9rcp4teo4kbaii7n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omgnice_app_tv",
+            "certificate_hash": "34015d672676c5fb78cde21ab9923ea2c78ec836"
+          }
+        },
+        {
+          "client_id": "792942328159-lol1mun77gk1mppv3en8hba1sqj3cc1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpat_xGPd4uVnu2oj9FIjk_OHniuAn8XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792942328159-lol1mun77gk1mppv3en8hba1sqj3cc1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "792942328159-gqhp7a0tmkkkrdf2j1crmk06usuuktlr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.omgniceEcommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
