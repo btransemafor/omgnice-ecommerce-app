@@ -90,8 +90,8 @@ OMGNice E-commerce App giúp kết nối người bán và người mua thông q
 4. **Chỉnh sửa file `.env`** với thông tin phù hợp:
    ```env
    PORT=8081
-   DATABASE_URL=mongodb://localhost:27017/your_database
    JWT_SECRET=your_jwt_secret_key
+   ...
    ```
 
 5. **Chạy server:**
