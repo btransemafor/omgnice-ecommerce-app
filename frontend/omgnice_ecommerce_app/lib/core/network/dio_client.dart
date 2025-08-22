@@ -17,7 +17,7 @@ class DioClient {
     // Base configuration cho mọi request
     _dio = Dio(
       BaseOptions(
-        baseUrl: 'http://192.168.1.5:8081/api', //  Đặt base URL tại đây
+        baseUrl: 'http://YOUR_IP:8081/api', //  Đặt base URL tại đây
        // connectTimeout: const Duration(seconds: 2), //  Thời gian chờ kết nối server 
        // receiveTimeout: const Duration(seconds: 2), //  Thời gian chờ nhận dữ liệu từ server
         sendTimeout: const Duration(seconds: 60), // ⏱ Thời gian gửi data (nếu dùng POST)
